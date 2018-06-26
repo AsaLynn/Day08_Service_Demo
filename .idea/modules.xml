@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day08_Service_Demo.iml" filepath="$PROJECT_DIR$/Day08_Service_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidl_clicent/aidl_clicent.iml" filepath="$PROJECT_DIR$/aidl_clicent/aidl_clicent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidl_db_client/aidl_db_client.iml" filepath="$PROJECT_DIR$/aidl_db_client/aidl_db_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidl_db_service/aidl_db_service.iml" filepath="$PROJECT_DIR$/aidl_db_service/aidl_db_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidl_service/aidl_service.iml" filepath="$PROJECT_DIR$/aidl_service/aidl_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messenger_client/messenger_client.iml" filepath="$PROJECT_DIR$/messenger_client/messenger_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messenger_service/messenger_service.iml" filepath="$PROJECT_DIR$/messenger_service/messenger_service.iml" />
+    </modules>
+  </component>
+</project>

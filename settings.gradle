@@ -1,0 +1,1 @@
+include ':app', ':aidl_service', ':aidl_clicent', ':aidl_db_service', ':aidl_db_client', ':messenger_service', ':messenger_client'
